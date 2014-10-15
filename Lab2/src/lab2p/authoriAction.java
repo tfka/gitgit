@@ -12,8 +12,7 @@ public class authoriAction extends ActionSupport
 	{
 		List<author> w=sf.getauthorinf();
 		
-		ActionContext.getContext().put("authorlist", sf.getauthorinf());
-		//System.out.print((sf.getauthorinf())
+		ActionContext.getContext().put("authorlist", sf.geta
 		return SUCCESS;
 	}
 }

@@ -9,11 +9,7 @@ public class addbookAction extends ActionSupport
 	private String name;
 	private String isbn;
 	private String title;
-	private String publish;
-	private String date;
-	private String price;
-	public String getName()
-	{
+	priva
 		return this.name;
 	}
 	public void setName(String name)

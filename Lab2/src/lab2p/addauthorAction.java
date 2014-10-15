@@ -14,7 +14,7 @@ public class addauthorAction extends ActionSupport
 	{
 		return this.name;
 	}
-	public void setName(String name)
+	public void see(String name)
 	{
 		this.name =name;
 		myauthor.setName(name);
