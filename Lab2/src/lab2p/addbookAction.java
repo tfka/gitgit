@@ -18,7 +18,7 @@ public class addbookAction extends ActionSupport
 	}
 	public String getIsbn()
 	{
-		return this.isbn;
+		return sbn;
 	}
 	public void setIsbn(String isbn)
 	{

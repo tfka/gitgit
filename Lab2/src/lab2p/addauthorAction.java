@@ -13,8 +13,7 @@ public class addauthorAction extends ActionSupport
 	public String getName()
 	{
 		return this.name;
-	}
-	public void see(String name)
+	}g name)
 	{
 		this.name =name;
 		myauthor.setName(name);

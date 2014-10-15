@@ -16,7 +16,7 @@ public class author
 	}
 	public String getName()
 	{
-		return this.name;
+		rn this.name;
 	}
 	public void setName(String name)
 	{
