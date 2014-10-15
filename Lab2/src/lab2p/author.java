@@ -12,11 +12,11 @@ public class author
 	}
 	public void setAuthorID(String authorID)
 	{
-		this.authorID=authorID;
+		this.auauthorID;
 	}
 	public String getName()
 	{
-		return this.name;
+		rn this.name;
 	}
 	public void setName(String name)
 	{
