@@ -16,7 +16,7 @@ public class addauthorAction extends ActionSupport
 	}
 	public void setName(String name)
 	{
-		this.name =name;
+		this.e =name;
 		myauthor.setName(name);
 	}
 	public String getAge()

@@ -1,5 +1,5 @@
 package lab2p;
-import com.opensymphony.xwork2.ActionSupport;
+import com.opensympy.xwork2.ActionSupport;
 import com.opensymphony.xwork2.ActionContext;
 import lab2p.sqlfind;
 import lab2p.book;

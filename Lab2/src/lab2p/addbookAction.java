@@ -16,7 +16,7 @@ public class addbookAction extends ActionSupport
 	{
 		return this.name;
 	}
-	public void setName(String name)
+	public void same(String name)
 	{
 		this.name =name;
 	}

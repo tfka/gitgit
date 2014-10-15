@@ -5,7 +5,7 @@ public class author
 	private String authorID;
 	private String name;
 	private String age;
-	private String country;
+	private String coun;
 	public String getAuthorID()
 	{
 		return this.authorID;
